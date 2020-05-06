@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE Artikli SYSTEM "magacinDTD.dtd" >
+<Artikli>
+	<Artikal>
+		<Naziv id="1">PVC</Naziv>
+		<DatumIzrade>
+			<Dan>5</Dan>
+			<Mesec>4</Mesec>
+			<Godina>2020</Godina>
+		</DatumIzrade>
+		<Cena tip="din">25000</Cena>
+		<KompanijaProdavca>
+			<ImeKompanije>Aleksa</ImeKompanije>
+			<Adresa>Ivankovacka 5</Adresa>
+		</KompanijaProdavca>
+		<EmailProdavca tip="privatni">milinkovic.aleksa@gmail.com</EmailProdavca> 	
+	</Artikal>
+<Artikli>
